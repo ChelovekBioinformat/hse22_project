@@ -10,9 +10,5 @@ https://colab.research.google.com/drive/1NSnzWpNocGmRgSYg_qRxmsvH4hK5LsDG?usp=sh
 | Marinobacter psychrophilus | GCF_001043175.1_ASM104317v1 | 1 | 3998597 | 3677	 | 89.33% | 17237 | 168268 |
 | Marinobacter salinus | GCF_001854125.1_ASM185412v1 | 1 | 4121005 | 3819 | 91.58% | 11628 | 114482 |
 ## Распределение zh-score
-![image](https://user-images.githubusercontent.com/95506249/175116603-a999f9fb-d0ba-43b4-865f-453410f49c7d.png)
-![image](https://user-images.githubusercontent.com/95506249/175116635-54acca3d-d6c0-4d5d-a582-cc17eba5de14.png)
-![image](https://user-images.githubusercontent.com/95506249/175116665-cc3d3cc7-a370-4c49-9a2f-0e36a5213f79.png)
-![image](https://user-images.githubusercontent.com/95506249/175116680-781cb00c-2fbd-485d-922a-acc64d2653ea.png)
-![image](https://user-images.githubusercontent.com/95506249/175116700-754e2090-198a-4cd8-b7e2-2a63731714ae.png)
+![image](https://user-images.githubusercontent.com/95506249/175605490-dac8f57d-f94d-4b57-b483-65ced4e3e579.png)
 ## Информация по полученным гомологичным кластерам
