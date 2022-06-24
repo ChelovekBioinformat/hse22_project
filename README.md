@@ -12,3 +12,6 @@ https://colab.research.google.com/drive/1NSnzWpNocGmRgSYg_qRxmsvH4hK5LsDG?usp=sh
 ## Распределение zh-score
 ![image](https://user-images.githubusercontent.com/95506249/175605490-dac8f57d-f94d-4b57-b483-65ced4e3e579.png)
 ## Информация по полученным гомологичным кластерам
+Всего 3935 кластеров
+### Гистограма кластеров по кол-ву разных геномов в кластере
+![image](https://user-images.githubusercontent.com/95506249/175612938-63abce3a-4a91-413c-949b-1f7ccdd188a1.png)
