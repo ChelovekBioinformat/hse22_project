@@ -72,4 +72,5 @@ https://colab.research.google.com/drive/1NSnzWpNocGmRgSYg_qRxmsvH4hK5LsDG?usp=sh
 ![image](https://user-images.githubusercontent.com/95506249/175617142-176985d2-f5d5-4549-aa04-fcd72d18dc10.png)
 # Бонус
 ## Визуализация расположения квадруплексов для каждого выбранного кластера
+Лишь в одном кластере нашлись квадруплексы
 ![image](https://user-images.githubusercontent.com/95506249/175617564-a5614ed1-4ac4-4987-96ae-612fffc0afee.png)
