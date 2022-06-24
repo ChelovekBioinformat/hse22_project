@@ -28,3 +28,14 @@ https://colab.research.google.com/drive/1NSnzWpNocGmRgSYg_qRxmsvH4hK5LsDG?usp=sh
 | 69 |WP_011786479.1 | WP_048387310.1 |	WP_070964418.1 | WP_148863978.1 | WP_014578162.1 |
 | 2531 | WP_014422593.1 | WP_048387737.1 | WP_070973233.1 | WP_148864170.1 | WP_014578292.1 |
 | 2452 | WP_014422696.1 | WP_048387904.1 | WP_070973019.1 | WP_227545954.1 | WP_014578411.1 |
+## Множественное белковое выравнивание для каждого выбранного кластера
+![image](https://user-images.githubusercontent.com/95506249/175615432-fe227f4b-eb44-4719-8678-d1e6b7c576c2.png)
+![image](https://user-images.githubusercontent.com/95506249/175615488-aeac9f08-0c20-4e79-bd9f-9a13320680de.png)
+![image](https://user-images.githubusercontent.com/95506249/175615532-4b9c1192-52da-4bfc-b3c1-21ff26ef6f13.png)
+![image](https://user-images.githubusercontent.com/95506249/175615550-6b7484e1-3b81-4db1-babd-666889abd7ae.png)
+![image](https://user-images.githubusercontent.com/95506249/175615573-aea3a9ba-edc4-42f1-b3b9-10128b320835.png)
+![image](https://user-images.githubusercontent.com/95506249/175615600-8bed4c9f-e622-4594-a686-2a7f5ba71695.png)
+![image](https://user-images.githubusercontent.com/95506249/175615743-19078fce-1f50-46de-8576-627022a8ea92.png)
+![image](https://user-images.githubusercontent.com/95506249/175615799-4b5b87c4-e69a-43f9-aef0-28aaa0134156.png)
+![image](https://user-images.githubusercontent.com/95506249/175615843-b2050857-c6b4-4979-bebb-3fe140749a3b.png)
+![image](https://user-images.githubusercontent.com/95506249/175615865-ec796a3d-d07b-4314-9631-07ad26ad18e1.png)
