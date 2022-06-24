@@ -1,4 +1,4 @@
-# hse22_project
+# Основная часть
 ## Ссылка на colab
 https://colab.research.google.com/drive/1NSnzWpNocGmRgSYg_qRxmsvH4hK5LsDG?usp=sharing
 ## Таблица
@@ -70,3 +70,6 @@ https://colab.research.google.com/drive/1NSnzWpNocGmRgSYg_qRxmsvH4hK5LsDG?usp=sh
 ![image](https://user-images.githubusercontent.com/95506249/175617118-094881bb-37f7-45bc-9ec0-b273feb78336.png)
 Кластер 2452:
 ![image](https://user-images.githubusercontent.com/95506249/175617142-176985d2-f5d5-4549-aa04-fcd72d18dc10.png)
+# Бонус
+## Визуализация расположения квадруплексов для каждого выбранного кластера
+![image](https://user-images.githubusercontent.com/95506249/175617564-a5614ed1-4ac4-4987-96ae-612fffc0afee.png)
